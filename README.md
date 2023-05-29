@@ -7,7 +7,7 @@
 
 ![Capa do Projeto](https://i.ibb.co/HXck2kf/2023-05-29-1.png)
 
-Um clone do quizz do buzzfeed feito a partir do bootcamp Potência Tech Angular Developer - Powered by iFood, realizado através da plataforma [DIO](https://web.dio.me/) (Digital Innovation One). O projeto foi feito utilizando a framework Angular
+Um clone do quizz do buzzfeed feito a partir do bootcamp Potência Tech Angular Developer - Powered by iFood, realizado através da plataforma [DIO](https://web.dio.me/) (Digital Innovation One). O projeto foi feito utilizando a framework Angular.
 
 ## Pré-requisitos
 
