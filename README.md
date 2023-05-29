@@ -1,27 +1,48 @@
-# BuzzfeedQuiz
+# Clone de um Quizz do Buzzfeed
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
+<!-- Shields Exemplo, existem N diferentes shield em https://shields.io/ -->
+![GitHub last commit](https://img.shields.io/github/last-commit/graciellenascimento/angular-buzzfeed-quizz)
+![GitHub language count](https://img.shields.io/github/languages/count/graciellenascimento/angular-buzzfeed-quizz)
+![Github repo size](https://img.shields.io/github/repo-size/graciellenascimento/angular-buzzfeed-quizz)
 
-## Development server
+![Capa do Projeto](https://i.ibb.co/HXck2kf/2023-05-29-1.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Um clone do quizz do buzzfeed feito a partir do bootcamp Potência Tech Angular Developer - Powered by iFood, realizado através da plataforma [DIO](https://web.dio.me/) (Digital Innovation One). O projeto foi feito utilizando a framework Angular
 
-## Code scaffolding
+## Pré-requisitos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Antes de executar o projeto, certifique-se de ter as seguintes dependências instaladas:
 
-## Build
+- Antes de começar, verifique se você possui o `node.js` instalado em sua máquina. Se não tiver, você pode baixar o `node.js` [aqui](https://nodejs.org/en/download).
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Como executar o projeto
 
-## Running unit tests
+Siga as etapas abaixo para executar o projeto em sua máquina local:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Execute os seguintes comandos a partir da pasta raiz do projeto:
 
-## Running end-to-end tests
+<!-- Aqui é tudo exemplo, só trocar -->
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Clone este repositório
 
-## Further help
+```bash
+git clone https://github.com/graciellenascimento/angular-blog
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Este link pode ser encontrado no botão verde acima `Code`.
+
+### Instale as dependências
+
+```bash
+npm install
+```
+
+### Execute o Projeto
+
+```bash
+ng serve
+```
+
+## Voltar ao topo
+
+[⬆ Voltar ao topo](#título)
